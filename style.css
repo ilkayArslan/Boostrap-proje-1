@@ -1,0 +1,53 @@
+.anaSayfa{
+    background-color: #E9ECEF;
+}
+.anaCard{
+    background-color: #E9ECEF;
+    border: none;
+    height: 700px;
+}
+.cerceve{
+    border-radius: 5px;
+    background-color: aliceblue; 
+    padding-top: 10px;
+}
+
+.cerceve:hover>.card{
+    box-shadow: 0px 0px 10px grey;
+}
+#ana-gidis{
+    
+    border-right: 3px solid black ;
+    box-shadow: 3px 0px 1px  yellow;
+}
+.listbasi{
+    margin: 0;
+    text-align: center;
+}
+.listbasi div a{
+    
+    cursor: pointer;
+    color: rgb(196, 179, 179);
+}
+#ana-gidis a{
+    color: rgb(42, 41, 41);
+}
+#ana-gidis:hover>a{
+    color: rgb(132, 132, 132);
+}
+.listbasi div:hover{
+    
+    background-color: rgb(244, 49, 81);
+
+}
+.listbasi div a:hover{
+    color: rgb(239, 232, 232);
+
+}
+.baslik{
+    width: 100%;
+    text-align: center;
+}
+.card img{
+    height: 100px;
+}
